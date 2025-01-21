@@ -3,7 +3,7 @@
 ![Preview do Projeto](https://github.com/user-attachments/assets/1d0f85d9-ddfa-44c1-924e-778181db01e5)  
 Acesse o projeto: [Visualizar Página](https://devrafcks.github.io/Desafio-CSS/)
 
-Este projeto foi desenvolvido como parte de um desafio ministrado pelo professor **Daniel Tapias Morales**. O objetivo era criar uma página HTML estilizada, utilizando conceitos fundamentais e intermediários de CSS, para aprimorar habilidades práticas no desenvolvimento de layouts e design responsivo.
+Este projeto foi desenvolvido como parte de um desafio ministrado pelo professor **Daniel Tapias Morales** para aprimorar habilidades práticas no desenvolvimento de layouts e design responsivo.
 
 ---
 ## Problemas Resolvidos
